@@ -1,0 +1,25 @@
+{
+  "name": "m3-w1-d3-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reclusivestar/m3-w1-d3-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reclusivestar/m3-w1-d3-homework/issues"
+  },
+  "homepage": "https://github.com/reclusivestar/m3-w1-d3-homework#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pug": "^3.0.3"
+  }
+}
